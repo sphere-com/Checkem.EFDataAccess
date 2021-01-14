@@ -5,7 +5,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="DataAccess\" />
+    <ProjectReference Include="..\..\Checkem.Models\Checkem.Models\Checkem.Models.csproj" />
   </ItemGroup>
 
 </Project>
